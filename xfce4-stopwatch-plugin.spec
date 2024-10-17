@@ -4,7 +4,7 @@ Version:	0.2.0
 Release:	2
 License:	BSD
 Group:		Graphical desktop/Xfce
-URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-stopwatch-plugin
+URL:		https://goodies.xfce.org/projects/panel-plugins/xfce4-stopwatch-plugin
 Source0:	http://goodies.xfce.org/releases/xfce4-stopwatch-plugin/%{name}-%{version}.tar.bz2
 Requires:	xfce4-panel >= 4.6
 BuildRequires:	pkgconfig(libxfce4panel-1.0)
